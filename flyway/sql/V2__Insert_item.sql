@@ -1,0 +1,1 @@
+INSERT INTO item (action_date, action_type, item_description, price) VALUES('2019-01-21T12:53:37.836Z', 'PURCHASED_IT', 'Socks', 20);
